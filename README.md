@@ -1,7 +1,6 @@
 # curve_to_data_parser
 
 The script is used to detect curves in a plot, then parse curves into numerical data points. 
-
 <br><br>
 The algorithm is:
 
@@ -13,7 +12,7 @@ The algorithm is:
 
 *notes: to parse axis labels, 'pytesseract' package and Google Tesseract-Ocr Engine need to be installed. 
 
-
+<br><br>
 To find curves in a plot and convert them to data points, run: 
 
 python curveparser.py
