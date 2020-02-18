@@ -1,6 +1,7 @@
 # curve_to_data_parser
 
 The script is used to detect curves in a plot, then parse curves into numerical data points. 
+
 <br><br>
 The algorithm is:
 
